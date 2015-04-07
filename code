@@ -1,0 +1,30 @@
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <algorithm>
+using namespace std;
+
+int palyndromo (int n1)
+{
+	int x = n1;
+	int y;
+	string cadena = to_string(x);
+	string cadena = p1;
+	string reverse(p1.begin(), p1.end());
+	y = atoi(p1.c_str());
+	if(x==y)
+	{
+		cout<<"El numero es palyndromo"<<endl;
+	}
+	
+}
+
+int main ()
+{
+	int n1;
+	cout<<"Este programa pide dos numeros y checa si son palindromos"<<endl;
+
+		cout<<"Dame un numero de 5 digitos"<<endl;
+		cin>>n1;
+
+}
